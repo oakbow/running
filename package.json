@@ -13,10 +13,5 @@
     "type": "git",
     "url": "git+https://github.com/mttrs/running.git"
   },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mttrs/running/issues"
-  },
-  "homepage": "https://github.com/mttrs/running#readme"
+  "license": "MIT"
 }
