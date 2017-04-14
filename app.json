@@ -1,0 +1,21 @@
+{
+  "name": "Running",
+  "website": "https://small-sharp-tool.com/",
+  "repository": "https://github.com/mttrs/running",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "standard-1x"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/go"
+    }
+  ]
+}
