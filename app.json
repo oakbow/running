@@ -10,6 +10,9 @@
   "addons": [
     {
       "plan": "heroku-postgresql"
+    },
+    {
+      "plan": "heroku-redis:premium-0"
     }
   ],
   "buildpacks": [
