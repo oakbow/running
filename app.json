@@ -8,12 +8,8 @@
     }
   },
   "addons": [
-    {
-      "plan": "heroku-postgresql:standard-0"
-    },
-    {
-      "plan": "heroku-redis:premium-0"
-    }
+    "heroku-postgresql:standard-0",
+    "heroku-redis:premium-0"
   ],
   "buildpacks": [
     {
