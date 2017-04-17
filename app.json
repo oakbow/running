@@ -9,7 +9,9 @@
   },
   "addons": [
     "heroku-postgresql:standard-0",
-    "heroku-redis:premium-0"
+    "heroku-redis:premium-0",
+    "memcachier:1000",
+    "sendgrid:starter"
   ],
   "buildpacks": [
     {
