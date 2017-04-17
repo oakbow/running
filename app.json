@@ -1,6 +1,7 @@
 {
   "name": "Running",
   "repository": "https://github.com/mttrs/running",
+  "success_url": "/",
   "formation": {
     "web": {
       "quantity": 1,
